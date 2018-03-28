@@ -5,7 +5,7 @@ testing servers.
 
 # Quick Start - Binary Release
 
-_Linux Only Currently_
+_Linux/Windows Only Currently_
 
 1. Download the latest binary release from
  https://github.com/qhrtech/ws-stomp-client/releases
